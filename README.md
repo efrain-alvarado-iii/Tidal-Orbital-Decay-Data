@@ -1,2 +1,2 @@
 # Tidal-Orbital-Decay-Data
-This is all the data used in Alvarado III+2024 (In Prep.).
+This repository contains data used in Alvarado III+2024 (in prep.). Each folder, named after the planetary system, houses a .csv file containing transit data. For example, '2-5-22.csv' denotes transit data collected on Feb. 5th, 2022, in Coordinated Universal Time (UTC). 'AllTimes.csv' encompasses transit timing data, and 'RV.csv' includes radial-velocity (RV) data for the particular system in the folder. Outside these folders, 'AllTransit-Data.csv' amalgamates transit timing data for all the systems considered in this study. Similarly, 'AllRV-Data.csv' combines RV data for all systems in this study.
